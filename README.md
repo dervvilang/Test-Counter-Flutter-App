@@ -1,4 +1,4 @@
-# hello_flutter
+# test_counter_app
 
 A new Flutter project.
 
